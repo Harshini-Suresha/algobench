@@ -6,6 +6,7 @@ from algobench import SUITES, UNITS, suite, exponents, theory_fit
 st.set_page_config(page_title="AlgoBench", page_icon="⏱️", layout="wide")
 st.title("⏱️ AlgoBench")
 st.caption("Design & Analysis of Algorithms · Theory vs empirical performance")
+st.markdown("[🌐 Website](https://harshini-suresha.github.io/algobench/) · [💻 GitHub](https://github.com/Harshini-Suresha/algobench) · [📓 Colab](https://colab.research.google.com/github/Harshini-Suresha/algobench/blob/main/AlgoBench.ipynb)")
 
 tab1, tab2 = st.tabs(["Benchmark", "Complexity curves"])
 

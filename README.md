@@ -6,7 +6,7 @@ Design & Analysis of Algorithms: theory vs measured performance, across eight pa
 
 - **Website (GitHub Pages):** https://harshini-suresha.github.io/algobench/
 - **Notebook in Colab:** https://colab.research.google.com/github/Harshini-Suresha/algobench/blob/main/AlgoBench.ipynb
-- **Streamlit app (deploy free):** open https://share.streamlit.io → New app → repo `Harshini-Suresha/algobench`, file `streamlit_app.py` → your link becomes `https://harshini-suresha-algobench.streamlit.app` (approx; Streamlit shows the exact URL after deploy)
+- **Streamlit app:** https://algobench-ezdmvjxxnpfq7jrkazz2xv.streamlit.app/
 
 ## 📁 Files
 
